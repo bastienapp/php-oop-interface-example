@@ -56,7 +56,6 @@ try {
     $canard->swimDown();
     $canard->swimDown();
     echo $canard->getDepth(). PHP_EOL;
-    ;
 } catch (Exception $e) {
     echo $e->getMessage() . PHP_EOL;
 }
