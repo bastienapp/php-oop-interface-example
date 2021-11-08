@@ -1,0 +1,15 @@
+{
+    "name": "bastienwcs/aviary",
+    "autoload": {
+        "psr-4": {
+            "Aviary\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "bastienwcs",
+            "email": "bastien.krettly@wildcodeschool.com"
+        }
+    ],
+    "require": {}
+}
